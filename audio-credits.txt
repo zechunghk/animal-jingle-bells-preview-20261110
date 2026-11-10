@@ -1,0 +1,32 @@
+《Jingle Bells》V8 - 真實動物錄音版
+
+老虎、獅子及大象各自成曲，各有伴奏版及純動物聲版，每首 120 秒。
+動物聲全部直接來自下列實錄，未使用聲音合成、諧波重建、變調、變速或拉長。
+只作片段選取、輕度固定底噪整理、短淡入淡出、音量與出現時間安排；每段保留選取區間原有的播放長度。
+叫聲以完整發聲片段為主，因此不逐個音符唱旋律。伴奏版由輕聲樂器呈現 Jingle Bells，純動物聲版保留同一叫聲編排。
+現場錄音可能有少量環境聲與原有殘響。
+原錄音對照 MP3 只有截取及音量整理，沒有變調或音色重建；放在「原錄音對照」資料夾。
+旋律：James Lord Pierpont，Jingle Bells。請保留以下來源與署名，原作者不因此認可本改編。
+
+老虎
+jeremywen
+tiger roards at zoo - edit.wav / Columbus Zoo
+https://freesound.org/people/jeremywen/sounds/347258/
+CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+
+獅子
+Terwelp
+Lions Roar at Lincoln Park Zoo.wav / Chicago
+https://freesound.org/people/Terwelp/sounds/24797/
+CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/
+
+大象
+Evelyn Fuchs, Veronika C. Beeck, Anton Baotic, Angela S. Stoeger (2021)
+Acoustic structure and information content of trumpets in female Asian elephants / S2 Audio: Sona, short chaotic trumpet
+https://doi.org/10.1371/journal.pone.0260284.s006
+CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+
+Evelyn Fuchs, Veronika C. Beeck, Anton Baotic, Angela S. Stoeger (2021)
+Acoustic structure and information content of trumpets in female Asian elephants / S1 Audio: Chan Chun, long biphonic trumpet
+https://doi.org/10.1371/journal.pone.0260284.s005
+CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

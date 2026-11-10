@@ -1,0 +1,21 @@
+Jingle Bells V10 — 音量調整與變調比較
+每首 120 秒、132 BPM。大象 E1、老虎 T2；獅子改為新來源 L3，沒有使用被排除的 L2。
+natural：保留來源音高，依歌曲節奏剪輯長短。
+pitched：使用相同來源波形，按旋律相對音程變調 -4 至 +3 個半音；以重取樣改變播放速率，音色會隨之改變。吼聲不是穩定音高的人聲，旋律辨識程度因素材而異。
+voice：純動物音效；bgm：加清楚可聽的鐘琴旋律及低音。樂器音軌與動物音軌 RMS 比約 -1.4 dB，再一起降低峰值避免削波；不是只把整首歌調大聲。
+有短淡入淡出、長短變化及停頓。動物聲沒有使用人聲模仿或諧波合成，但音效庫來源本身的製作方法未完全公開；不能將它們視為科學物種聲音教材。
+
+E1 大象：Cartoon elephant sound / Krabby / SoundFactory
+https://soundfactory.ai/cartoon-elephant-sound/
+由來源頁公開 Download Audio 取得；頁面未列明再利用授權，公開或商業再利用權利待確認。
+
+T2 老虎：Tiger roar / ejah_music / Pixabay
+https://pixabay.com/sound-effects/nature-tiger-roar-461154/
+Pixabay Content License: https://pixabay.com/service/license-summary/
+
+L3 獅子：Wild lion animal roar / Mixkit，下載檔名 mixkit-wild-lion-animal-roar-6.wav
+https://mixkit.co/free-sound-effects/lion/
+Mixkit Sound Effects Free License: https://mixkit.co/license/#sfxFree
+本包是經編曲加工的歌曲，不包含 Mixkit 原始素材檔。
+
+旋律：Jingle Bells / James Lord Pierpont。

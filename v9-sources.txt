@@ -1,0 +1,14 @@
+V9：E1 大象、T2 老虎選定音效節奏試作。各 120 秒、132 BPM。
+純動物聲版呈現 Jingle Bells 節奏，不逐音符唱出旋律。伴奏版加入輕聲鐘琴旋律。
+直接使用下載音檔的不同長度片段，僅剪輯、音量整理、淡入淡出；沒有合成動物聲、變調、變速、混入其他動物或環境音軌。原素材可能本身為設計音效，並非保證野外實錄。
+L1 獅子尚缺可剪輯音訊，未製作本版。
+
+E1: Cartoon elephant sound / Krabby / SoundFactory
+https://soundfactory.ai/cartoon-elephant-sound/
+由來源頁 Download Audio 取得；來源頁沒有明示再利用授權，公開或商業再利用權利待確認。
+
+T2: Tiger roar / ejah_music / Pixabay
+https://pixabay.com/sound-effects/nature-tiger-roar-461154/
+Pixabay Content License: https://pixabay.com/service/license-summary/
+
+旋律：Jingle Bells / James Lord Pierpont。
